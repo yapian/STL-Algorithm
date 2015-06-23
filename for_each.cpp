@@ -1,3 +1,7 @@
+/*
+ *示例了for_each针对函数指针，函数对象，lambda表达式的三种情况
+ *
+ */
 #include "algostuff.h"
 
 template<typename T>
